@@ -1,0 +1,20 @@
+{
+  "name": "webpack-extract-keyword",
+  "version": "0.0.1",
+  "description": "A webpack plugin to extract keywords from source files.",
+  "main": "index.js",
+  "types": "./src/index.d.ts",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "extract",
+    "keyword",
+    "i18n"
+  ],
+  "files": [
+    "src"
+  ],
+  "homepage": "https://github.com/lin52025iq/webpack-extract-keyword#readme",
+  "author": "lin52025i",
+  "license": "MIT"
+}
